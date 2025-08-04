@@ -1,6 +1,6 @@
 # Aventura do Colecionador 🏃‍♂️💨
 
-**"Aventura do Colecionador"** é um jogo de plataforma de corrida infinita desenvolvido com Pygame Zero. No jogo, você controla um herói que deve andar sobre a plataforma, coletar moedas até vencer e desviar de inimigos perigosos. A dificuldade aumenta à medida que você avança, tornando cada vez mais desafiador alcançar o objetivo final de 50 moedas.
+**"Aventura do Colecionador"** é um jogo de plataforma de corrida desenvolvido com Pygame Zero. No jogo, você controla um herói que deve andar sobre a plataforma, coletar moedas até vencer e desviar de inimigos perigosos. A dificuldade aumenta à medida que você avança, tornando cada vez mais desafiador alcançar o objetivo final de 50 moedas.
 
 ### Funcionalidades
 * **Controles Simples:** Mova o herói para a esquerda e direita e faça-o pular para coletar moedas.
